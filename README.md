@@ -1,6 +1,7 @@
 # Jornada Laboral App
 
 Aplicación web full stack para registrar el ingreso y egreso de trabajadores durante una jornada laboral.
+Proyecto realizado con ayuda de Inteligencia Artifical. 
 
 ## Descripción
 
